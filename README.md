@@ -1,2 +1,2 @@
 # FacialRecognition3DMesh
-A simple Python 3 application that uses "Facial recognition" to detect a face and draw a geometric mesh in 3D.
+= A simple '3D Face Mesh' script that uses the 'MediaPipe' library to create a visual 3D mesh that has the landmarks for eyes and mouth. This will later be used for the Samaritan AI.
